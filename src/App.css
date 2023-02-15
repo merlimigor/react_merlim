@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #fff;
+}
+.tarja {
+  padding: 80px 546px;
+  background-color: #ffffff;
+  background-image: linear-gradient(0deg, #ffffff 0%, #c7c7c7 53%);
+
+
+}
+
+.App-logo {
+  width: 20%;
+  position: relative;
+  bottom: 180px;
+}
+.grid {
+  display: flex;
+  background-color: #5e5555;
+  background-image: linear-gradient(180deg, #5e5555 0%, #000000 100%);
+  
+}
+.espadas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3.0rem 0rem;
+
+}
+
+.espadas ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+ul button{
+  margin-top: 15px;
+  padding: 5px 20px;
+  background-color: #424242;
+  color: #ffff;
+  border: none;
+  cursor: pointer;
+
+}
+
+.garra {
+  width: 30%;
+}
+.lamento {
+  width: 30%;
+}
+
+.cumpridora {
+  width: 35%;
+}
+.gelo{
+  width: 40%;
+}
+.veneno{
+  width: 30%;
+}
+.black {
+  width: 30%;
+}
+
+.container1 {
+}
