@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_merlim/static/css/main.1e09dc68.css",
+    "main.js": "/react_merlim/static/js/main.080eca9b.js",
+    "static/js/787.3ab20d2e.chunk.js": "/react_merlim/static/js/787.3ab20d2e.chunk.js",
+    "static/media/head.png": "/react_merlim/static/media/head.f8ab0bfc2c831ddfcf51.png",
+    "static/media/cumpridora.jpg": "/react_merlim/static/media/cumpridora.b712b592bbef072f24e1.jpg",
+    "static/media/veneno.jpg": "/react_merlim/static/media/veneno.bab138c16999ea5f5c90.jpg",
+    "static/media/lamento.jpg": "/react_merlim/static/media/lamento.92ffff25da570e62679b.jpg",
+    "static/media/garra.jpg": "/react_merlim/static/media/garra.44bdf9a0511bb7ec4c98.jpg",
+    "static/media/black.jpg": "/react_merlim/static/media/black.59f63e887fde43bb4e93.jpg",
+    "index.html": "/react_merlim/index.html",
+    "main.1e09dc68.css.map": "/react_merlim/static/css/main.1e09dc68.css.map",
+    "main.080eca9b.js.map": "/react_merlim/static/js/main.080eca9b.js.map",
+    "787.3ab20d2e.chunk.js.map": "/react_merlim/static/js/787.3ab20d2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e09dc68.css",
+    "static/js/main.080eca9b.js"
+  ]
+}
